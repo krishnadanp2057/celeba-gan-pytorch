@@ -64,8 +64,7 @@ This project uses the **CelebA (CelebFaces Attributes)** dataset, specifically t
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/<krishnadanp2057>/<celeba-gan-pytorch.git>.git
 pip install torch torchvision pillow numpy matplotlib jupyter
 ```
 
